@@ -1,3 +1,4 @@
+![Logo](https://github.com/minakshikr7/minakshikr7/blob/main/Full%20stack%20developer%20(2).jpg)
 <h1 align="center">Hi 👋, I'm Minakshi Kumari</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
